@@ -2,6 +2,7 @@
 mini_proj
 
 References: please read the following files to execute this mini project
+
 (1) Presentation Slides. ppt 
 (gives an overview of the mini project, conclusion, future works)
 
