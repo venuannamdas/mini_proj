@@ -19,4 +19,4 @@ References: please read the following files to execute this mini project
 (the code in Jupiter are systematically included with comments and texts in between to separate various concepts (API data, data processing, sql code etc)   
 
 
- --------- can contact me at (venuannamdas@alum.iisc.ac.in) more for info.
+ --------- can contact me at (venuannamdas@alum.iisc.ac.in)  for more info.
